@@ -1,3 +1,3 @@
 FROM alpine:edge
 
-RUN apk --no-cache add build-base cmake clang-dev 
+RUN apk --no-cache add build-base cmake clang-dev
